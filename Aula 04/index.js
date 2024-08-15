@@ -31,6 +31,7 @@ let t = prompt("quanto você recebe por dia?")
 ela armazena o valor inserido pelo usuario referente ao salario diario.
 console.log("você recebe",t,"/,p,"por hora")
 o programa exibe uma mensagem no console, mostrando o valor do salario diario
+*/
 
 
 
