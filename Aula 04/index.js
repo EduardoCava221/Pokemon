@@ -25,11 +25,11 @@ C FOI DEFINIDO COMO A, MAS A AINDA NAO FOI DECLARADO. PORTANTO ISSO RESULTARA EM
 
 console.log(A, B, C);EXIBIRÁ 10 20 10 POIS C NAO FOI DECLARADO
 */
-/*let p = prompt("quantas horas você trabalha por dia?")
+/*let 12 = prompt("quantas horas você trabalha por dia?")
 este codigo solicita ao o usuario que insira o numero de horas que trabalha por dia
-let t = prompt("quanto você recebe por dia?")
+let 130 = prompt("quanto você recebe por dia?")
 ela armazena o valor inserido pelo usuario referente ao salario diario.
-console.log("você recebe",t,"/,p,"por hora")
+console.log("você recebe",130,"/,12,"por hora")
 o programa exibe uma mensagem no console, mostrando o valor do salario diario
 */
 
