@@ -26,21 +26,21 @@ C FOI DEFINIDO COMO A, MAS A AINDA NAO FOI DECLARADO. PORTANTO ISSO RESULTARA EM
 console.log(A, B, C);EXIBIRÁ 10 20 10 POIS C NAO FOI DECLARADO
 */
 
-let nome;
-let idade;
+//let nome;
+//let idade;
 
-console.log(typeof nome);
-console.log(typeof idade);
+//console.log(typeof nome);
+//console.log(typeof idade);
 
-nome = prompt ("Digite seu nome:")
-idade = prompt ("Digite sua Idade:")
+//nome = prompt ("Digite seu nome:")
+//idade = prompt ("Digite sua Idade:")
 
-console.log(typeof nome);
-console.log(typeof idade);
+//console.log(typeof nome);
+//console.log(typeof idade);
 
 //o tipo das variaveis é "undefined" porque ainda não atribuimos valores a elas.
 
-console.log ("Olá", nome, ",voce tem quanto anos?", idade,)
+//console.log ("Olá", nome, ",voce tem quanto anos?", idade,)
 
 
 
