@@ -42,6 +42,32 @@ console.log(A, B, C);EXIBIRÁ 10 20 10 POIS C NAO FOI DECLARADO
 
 //console.log ("Olá", nome, ",voce tem quanto anos?", idade,)
 
+/* Perguntas
+const pergunta1 = "Você está usando uma roupa azul hoje?";
+const pergunta2 = "Você gosta de pizza?";
+const pergunta3 = "Você já viajou para outro país?";
+
+// Respostas (sim ou não)
+const resposta1 = true; // Sim
+const resposta2 = false; // Não
+const resposta3 = true; // Sim
+
+// Imprimindo as perguntas e respostas
+console.log(`${pergunta1} - ${resposta1 ? "SIM" : "NÃO"}`);
+console.log(`${pergunta2} - ${resposta2 ? "SIM" : "NÃO"}`);
+console.log(`${pergunta3} - ${resposta3 ? "SIM" : "NÃO"}`);
+*/
+
+//let A = 10;
+//let B = 25;
+//TROCA DE VALORES USANDO UMA VARIAVEL AUXILIAR
+
+//let TEMP = A;
+//A = B;
+//B = TEMP;
+
+//console.log("VALOR DE A:, A");
+//console.log("VALOR DE B: , B");
 
 
 
