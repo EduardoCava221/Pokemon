@@ -72,14 +72,15 @@ letras.splice(2,1)
 console.log(letras);
 letras.splice(5,2)*/
 
-const NUMEROS = ["1","2","3","4","5","6"]
+/*const NUMEROS = ["1","2","3","4","5","6"]
 const tamanhoInicial = NUMEROS.length
 console.log(tamanhoInicial);//6
+
 NUMEROS.push (7)
 NUMEROS.splice (3, 2)
 const novoTamanho = NUMEROS.length
 console.log(novoTamanho); //5
-
+*/
 
 
 
