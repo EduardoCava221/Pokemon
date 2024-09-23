@@ -1,3 +1,5 @@
+//Nome: Gladimir Eduardo Cavalheiro da Silva
+
 // Função para criar um personagem
 function criarPersonagem(nome, classe, nivel, hp, habilidades) {
     return {
